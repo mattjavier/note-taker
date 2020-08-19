@@ -22,12 +22,12 @@ npm i
 The main server code is located in `server.js`, and the remaining server code consisting of the routes are all located in the `routes/` directory. All HTML and CSS are located in `public/`.
 
 To test, type the following into your browser url or use a third-party application like [Postman](https://www.postman.com/downloads/).
-> localhost:<port>/api/notes
+> localhost:port/api/notes
 
 The port number can be changed in the `server.js` file. The above command will show all the notes when a GET request is made. It will also update the notes `db.json` file if a POST request is made with a new request body. 
 
 The following command can be made with a DELETE request to remove a note from the notes `db.json` file:
-> localhost:<port>/api/notes/:id
+> localhost:port/api/notes/:id
 
 The id parameter will be a unique id given to each note. Testing in the browser or with Postman will display the changes to the `db.json` array when GET, POST, and DELETE requests are made. 
 
