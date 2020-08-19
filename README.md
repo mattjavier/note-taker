@@ -8,7 +8,7 @@ Routes for each server request are created in order to handle the appropriate ac
 
 ## Usage
 
-The application is deployed using Heroku. Click [here]() to visit the application.
+The application is deployed using Heroku. Click [here](https://arcane-oasis-32517.herokuapp.com/) to visit the application.
 
 ## Testing
 
