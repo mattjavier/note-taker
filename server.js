@@ -1,6 +1,5 @@
 const express = require('express')
 const { join } = require('path')
-const { allowedNodeEnvironmentFlags } = require('process')
 
 const app = express()
 
