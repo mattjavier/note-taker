@@ -35,15 +35,17 @@ The id parameter will be a unique id given to each note. Testing in the browser 
 
 * The initial Note Taker application.
   
-<img src="" width="600">
+<img src="./images/1.png" width="600">
 
 * Entering a new note, made with a POST request.
 
-<img src="" width="600">
+<img src="./images/2.png" width="600">
 
 * Deleting a note, made with a DELETE request.
 
-<img src="" width="600">
+<img src="./images/3.png" width="600">
+
+<img src="./images/4.png" width="600">
 
 
 You can view the application repository [here](https://github.com/mattjavier/note-taker)
